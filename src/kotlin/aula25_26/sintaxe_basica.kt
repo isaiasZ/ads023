@@ -14,7 +14,7 @@ var NUMERO = 1
   Palavras reservadas do Kotlin
   - abstract    - enum         - inner        - property     - typealias
   - actual      - expect       - internal     - protected    - val
-  - annotation  - extends      - interface    - public       - value
+  - annotation  -              - interface    - public       - value
   - as          - external     - is           - receiver     - var
   - break       - false        - it           - reified      - vararg
   - by          - field        - lateinit     - return       - when
